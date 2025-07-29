@@ -43,6 +43,4 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License.
 
-## Author
-Made with 💻 by [@TalentedSD19](https://github.com/TalentedSD19).  
 Check out the live app at [https://lab-leak.web.app](https://lab-leak.web.app)!

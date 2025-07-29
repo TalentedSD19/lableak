@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# Environment variables
+.env
+
+# Firebase logs and local files
+firebase-debug.log
+firebase-debug.*.log
+*.local
+
+# IDE files
+.vscode/
+.idea/

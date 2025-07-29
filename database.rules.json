@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "pages": {
+      "$slug": {
+        ".read": true,
+        ".write": "newData.exists() && newData.child('content').exists() && newData.child('timestamp').exists()"
+      }
+    }
+  }
+}
